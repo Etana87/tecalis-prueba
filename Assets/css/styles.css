@@ -305,6 +305,9 @@ h1, h2, h3, h4, h5, h6 {
   .container__nav {
     margin-left: 2rem;
   }
+  .navbar-brand {
+    margin-left: 2rem;
+  }
   .section__click {
     padding: 0 0.5rem;
   }
