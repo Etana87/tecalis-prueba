@@ -305,6 +305,9 @@ h1, h2, h3, h4, h5, h6 {
   .container__nav {
     margin-left: 2rem;
   }
+  .section__click {
+    padding: 0 0.5rem;
+  }
 }
 @media (max-width: 767px) {
   body {
@@ -319,6 +322,10 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 0;
     margin-top: 1rem;
     float: left;
+    position: absolute;
+  }
+  .navbar {
+    width: 100%;
   }
   .navbar-toggler {
     border: 0;
